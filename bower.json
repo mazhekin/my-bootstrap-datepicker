@@ -1,0 +1,13 @@
+{
+  "name": "mazhekin-my-bootstrap-datepicker",
+  "version": "1.0.0",
+  "authors": [
+    "Vasiliy Mazhekin <mazhekin@gmail.com>"
+  ],
+  "description": "The library that is taken from template COCO",
+  "main": [
+    "css/datepicker.css",
+    "js/bootstrap-datepicker.js"
+  ],
+  "license": "MIT"
+}
